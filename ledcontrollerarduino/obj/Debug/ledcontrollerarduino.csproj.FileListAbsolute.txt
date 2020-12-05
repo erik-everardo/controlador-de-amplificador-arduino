@@ -1,0 +1,13 @@
+C:\Users\erike\source\repos\ledcontrollerarduino\ledcontrollerarduino\bin\Debug\ledcontrollerarduino.exe.config
+C:\Users\erike\source\repos\ledcontrollerarduino\ledcontrollerarduino\bin\Debug\ledcontrollerarduino.exe
+C:\Users\erike\source\repos\ledcontrollerarduino\ledcontrollerarduino\bin\Debug\ledcontrollerarduino.pdb
+C:\Users\erike\source\repos\ledcontrollerarduino\ledcontrollerarduino\bin\Debug\Sharer.dll
+C:\Users\erike\source\repos\ledcontrollerarduino\ledcontrollerarduino\bin\Debug\Sharer.xml
+C:\Users\erike\source\repos\ledcontrollerarduino\ledcontrollerarduino\obj\Debug\ledcontrollerarduino.csprojAssemblyReference.cache
+C:\Users\erike\source\repos\ledcontrollerarduino\ledcontrollerarduino\obj\Debug\ledcontrollerarduino.Form1.resources
+C:\Users\erike\source\repos\ledcontrollerarduino\ledcontrollerarduino\obj\Debug\ledcontrollerarduino.Properties.Resources.resources
+C:\Users\erike\source\repos\ledcontrollerarduino\ledcontrollerarduino\obj\Debug\ledcontrollerarduino.csproj.GenerateResource.cache
+C:\Users\erike\source\repos\ledcontrollerarduino\ledcontrollerarduino\obj\Debug\ledcontrollerarduino.csproj.CoreCompileInputs.cache
+C:\Users\erike\source\repos\ledcontrollerarduino\ledcontrollerarduino\obj\Debug\ledcontrollerarduino.csproj.CopyComplete
+C:\Users\erike\source\repos\ledcontrollerarduino\ledcontrollerarduino\obj\Debug\ledcontrollerarduino.exe
+C:\Users\erike\source\repos\ledcontrollerarduino\ledcontrollerarduino\obj\Debug\ledcontrollerarduino.pdb
